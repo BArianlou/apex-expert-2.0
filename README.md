@@ -1,3 +1,4 @@
+[![Institutional Verification](https://github.com/BArianlou/apex-expert-2.0/actions/workflows/tests.yml/badge.svg)](https://github.com/BArianlou/apex-expert-2.0/actions/workflows/tests.yml)
 # Apex Expert 2.0: Strategic Intelligence & Narrative Engine
 
 ![Build Status](https://img.shields.io/badge/Build-Stable-success)
