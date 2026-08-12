@@ -14,6 +14,10 @@
 ## 1. Architectural Intent
 Apex Expert 2.0 is a deterministic intelligence layer designed for institutional-grade digital asset analysis. It systematically solves the "crisis of context" by synthesizing multi-modal data into actionable strategy, bridging the gap between raw telemetry and executive decision-making.
 
+### Language & System Integration
+* **Core Reference Engine:** Python 3.11 (AsyncIO, WebSockets, Pandas, NumPy) — *contained in this public repository*.
+* **Enterprise Execution Layer:** High-frequency trade execution, microservice interfaces, and low-latency API wrappers leverage **Java** and **Scala** event-driven backend utilities.
+
 ## 2. System Hierarchy (M9 - M10)
 The engine operates on a hierarchical logic stack, processing data through three distinct perception layers before synthesis.
 
